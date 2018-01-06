@@ -1,6 +1,8 @@
 import media
 import fresh_tomatoes
 
+#use the Movie class constructor to create a movie object for each trailer
+
 toy_story = media.Movie("Toy Story",
                         "A story about a boy and his toys that come to life",
                         "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-m8zzyx_5670999f.jpeg?region=0,0,300,450",

@@ -2,6 +2,7 @@ import webbrowser
 
 class Movie():
     
+    #create the init function which will create the attributes from the values passed in through the constructor
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
